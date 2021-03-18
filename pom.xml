@@ -71,6 +71,8 @@
         <module>property-listener</module>
         <module>javadoc</module>
         <module>runtime</module>
+        <module>reproducable-build</module>
+        <module>reproducable-build-test</module>
     </modules>
     <repositories>
          <repository>
